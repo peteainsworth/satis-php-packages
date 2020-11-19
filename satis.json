@@ -1,0 +1,19 @@
+{
+    "name": "peteainsworth/satis-php-packages",
+    "homepage": "https://peteainsworth.github.io/cruk-php-packages/",
+    "repositories": [
+		{
+			"url": "git@github.com:peteainsworth/satis-php-packages_polyfill-mbstring", 
+			"name": "peteainsworth/satis-php-packages_polyfill-mbstring", 
+			"type": "vcs", 
+			"no-api": true
+		},
+		{
+			"url": "git@github.com:peteainsworth/satis-php-packages_console", 
+			"name": "peteainsworth/satis-php-packages_console", 
+			"type": "vcs", 
+			"no-api": true
+		}
+	],
+    "require-all": true
+}
